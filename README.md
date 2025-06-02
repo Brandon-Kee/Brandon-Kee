@@ -42,10 +42,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Brandon-Kee/Brandon-Kee/output/snake.svg" alt="Snake animation" />
-
-###
-
 ## 🌐 Socials:
 
 ###
