@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Languages and Tools I Use</h2>
+<h2 align="left">Languages and Tools I Use </h2>
 
 ###
 
