@@ -1,7 +1,8 @@
-<h2 align="left">Hi there, 👋 I'm Brandon</h2>
 
 ###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=35&duration=3500&pause=1000&color=1AA7F7&vCenter=true&width=435&height=40&lines=Hi+there!+;I'm+Brandon+Kee)](https://git.io/typing-svg)
 
+<h2 align="left">About Me</h2>
 🎓 Master's student studying Computer Science at the University of Pennsylvania (Class of 2026)<br>🫀 Bachelor's in Biomedical Engineering from the University of Massachusetts Lowell (Class of 2024)<br>🔧 Previous experience at Pfizer, Amgen, and the Department of Defense<br>💡 Passionate about software development, database systems, and cybersecurity
 
 ###
