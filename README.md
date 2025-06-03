@@ -2,7 +2,7 @@
 
 ###
 
-🎓 Master's student studying Computer Science at the University of Pennsylvania (Class of 2026)<br>🫀 Bachelor's in Biomedical Engineering from the University of Massachusetts Lowell<br>🔧 Previous experience at Pfizer, Amgen, and the Department of Defense<br>💡 Passionate about software development, database systems, and cybersecurity
+🎓 Master's student studying Computer Science at the University of Pennsylvania (Class of 2026)<br>🫀 Bachelor's in Biomedical Engineering from the University of Massachusetts Lowell (Class of 2024)<br>🔧 Previous experience at Pfizer, Amgen, and the Department of Defense<br>💡 Passionate about software development, database systems, and cybersecurity
 
 ###
 
