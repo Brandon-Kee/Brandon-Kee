@@ -22,7 +22,7 @@
 
 **⚙️ Frameworks & Libraries**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
 
